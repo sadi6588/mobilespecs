@@ -1,3 +1,4 @@
+npm pkg set scripts.simple="node server/simple-server.js"
 {
   "name": "rest-express",
   "version": "1.0.0",
